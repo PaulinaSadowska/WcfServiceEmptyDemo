@@ -1,0 +1,5 @@
+C:\Users\arasz\Desktop\WCFTutorial\program\WcfServiceEmptyDemo\WcfServiceEmptyDemo\bin\WcfServiceEmptyDemo.dll.config
+C:\Users\arasz\Desktop\WCFTutorial\program\WcfServiceEmptyDemo\WcfServiceEmptyDemo\bin\WcfServiceEmptyDemo.dll
+C:\Users\arasz\Desktop\WCFTutorial\program\WcfServiceEmptyDemo\WcfServiceEmptyDemo\bin\WcfServiceEmptyDemo.pdb
+C:\Users\arasz\Desktop\WCFTutorial\program\WcfServiceEmptyDemo\WcfServiceEmptyDemo\obj\Debug\WcfServiceEmptyDemo.dll
+C:\Users\arasz\Desktop\WCFTutorial\program\WcfServiceEmptyDemo\WcfServiceEmptyDemo\obj\Debug\WcfServiceEmptyDemo.pdb
