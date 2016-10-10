@@ -7,5 +7,8 @@ namespace WcfServiceEmptyDemo
     {
         [OperationContract]
         string PrintUserData(string firstName, string surname, int age);
+
+        [OperationContract]
+        string PrintUserDataObject(UserData user);
     }
 }
