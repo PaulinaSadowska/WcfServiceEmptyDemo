@@ -13,11 +13,11 @@ namespace WcfServiceEmptyDemo
         {
             if (user == null)
             {
-                throw new FaultException("user can't be null!");
+                throw new FaultException("user can't be null!", new FaultCode("user null"));
             }
             else if (user.firstName == null || user.surname == null)
             {
-                throw new FaultException("user name and surname can't be null!");
+                throw new FaultException("user name and surname can't be null!", new FaultCode("name null"));
             }
             return $"{user.firstName} {user.surname} is {user.age} years old";
         }
